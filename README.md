@@ -1,0 +1,2 @@
+# necrospell
+Support necroperl crazyness
